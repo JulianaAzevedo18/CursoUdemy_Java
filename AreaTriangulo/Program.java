@@ -3,8 +3,6 @@ package AreaTriangulo;
 import java.util.Locale;
 import java.util.Scanner;
 
-//SEM ORIENTAÇÃO DE OBJETOS
-
 public class Program {
 
 	public static void main(String[] args) {
